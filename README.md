@@ -1,1 +1,1 @@
-Main Code is under src/cs131finalProj.py
+Main Code is under src/cs131FinalProj.py
